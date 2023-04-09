@@ -1,0 +1,173 @@
+[
+    {
+        "date": 1,
+        "day": "Tuesday",
+        "events": [
+            "All Saints' Day"
+        ]
+    },
+    {
+        "date": 2,
+        "day": "Wednesday",
+        "events": [
+            "All Souls' Day"
+        ]
+    },
+    {
+        "date": 3,
+        "day": "Thursday",
+        "events": []
+    },
+    {
+        "date": 4,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 5,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 6,
+        "day": "Sunday",
+        "events": [
+            "End of Daylight Saving Time",
+            "New York City Marathon"
+        ]
+    },
+    {
+        "date": 7,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 8,
+        "day": "Tuesday",
+        "events": [
+            "Election Day"
+        ]
+    },
+    {
+        "date": 9,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 10,
+        "day": "Thursday",
+        "events": [
+            "Marine Corps Birthday"
+        ]
+    },
+    {
+        "date": 11,
+        "day": "Friday",
+        "events": [
+            "Veterans Day"
+        ]
+    },
+    {
+        "date": 12,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 13,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 14,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 15,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 16,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 17,
+        "day": "Thursday",
+        "events": []
+    },
+    {
+        "date": 18,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 19,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 20,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 21,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 22,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 23,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 24,
+        "day": "Thursday",
+        "events": [
+            "Thanksgiving Day"
+        ]
+    },
+    {
+        "date": 25,
+        "day": "Friday",
+        "events": [
+            "Black Friday"
+        ]
+    },
+    {
+        "date": 26,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 27,
+        "day": "Sunday",
+        "events": [
+            "First Sunday of Advent"
+        ]
+    },
+    {
+        "date": 28,
+        "day": "Monday",
+        "events": [
+            "Cyber Monday"
+        ]
+    },
+    {
+        "date": 29,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 30,
+        "day": "Wednesday",
+        "events": []
+    }
+]

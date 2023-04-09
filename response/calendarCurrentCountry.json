@@ -1,0 +1,156 @@
+[
+    {
+        "date": 1,
+        "day": "Friday",
+        "events": [
+            "Bank Holiday"
+        ]
+    },
+    {
+        "date": 2,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 3,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 4,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 5,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 6,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 7,
+        "day": "Thursday",
+        "events": []
+    },
+    {
+        "date": 8,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 9,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 10,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 11,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 12,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 13,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 14,
+        "day": "Thursday",
+        "events": [
+            "Doctor Ambedkar's Birthday"
+        ]
+    },
+    {
+        "date": 15,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 16,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 17,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 18,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 19,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 20,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 21,
+        "day": "Thursday",
+        "events": []
+    },
+    {
+        "date": 22,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 23,
+        "day": "Saturday",
+        "events": []
+    },
+    {
+        "date": 24,
+        "day": "Sunday",
+        "events": []
+    },
+    {
+        "date": 25,
+        "day": "Monday",
+        "events": []
+    },
+    {
+        "date": 26,
+        "day": "Tuesday",
+        "events": []
+    },
+    {
+        "date": 27,
+        "day": "Wednesday",
+        "events": []
+    },
+    {
+        "date": 28,
+        "day": "Thursday",
+        "events": []
+    },
+    {
+        "date": 29,
+        "day": "Friday",
+        "events": []
+    },
+    {
+        "date": 30,
+        "day": "Saturday",
+        "events": []
+    }
+]
